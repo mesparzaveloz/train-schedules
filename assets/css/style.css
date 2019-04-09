@@ -1,0 +1,52 @@
+body{
+  background-image: url("../images/train.jpg");
+}
+.jumbotron{
+  background-color:#2a7cc0;
+  color:black;
+  border:5px rgb(11, 37, 5) solid;
+font-family: Arial,sans-serif;
+}
+.ride{
+  font-size:40px;
+  color:darkblue;
+}
+
+.panel-body{
+  border:5px rgb(11, 37, 5) solid;
+}
+.current, .add{
+  background-color:rgb(4, 8, 48);
+  color:white;
+  font-size:20px;
+}
+#trainTable{
+  background-color:#bcc4c4;
+  color:black;
+  font-size:20px;
+  font: bold;
+}
+#trainNameInput,#destinationInput,#timeInput,#freqInput{
+  color:black;
+  font-size:18px;
+  background-color:#bcc4c4;
+}
+.form-group{
+  color: black;
+  font-size:20px;
+}
+.btn{
+  background-color:#2a7cc0;
+  font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
